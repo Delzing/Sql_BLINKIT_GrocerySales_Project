@@ -1,5 +1,5 @@
 # Sql_BLINKIT_GrocerySales_Project
-Welcome to the BlinkIT Grocery Sales Project repository. Analysing a Dairy Farm Datasets with the use of Sql Server.
+Welcome to the BlinkIT Grocery Sales Project repository. Analysing a Dairy Farm Datasets with the use of SQL Server.
 
 The purpose of the project is to conduct a comprehensive analysis of a dairy farm sales performance,
 customer satisfaction, and inventory distribution to identify key insights and opportunities 
